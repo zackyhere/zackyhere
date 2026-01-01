@@ -7,7 +7,7 @@
 
 ## 🧑‍🎓 About Me
 
-I’m a final-year student at a **Vocational High School (SMK)** in Indonesia and currently a **Developer at [Toprion.com](https://toprion.com)**.
+I’m a final-year student at a **Vocational High School (SMK)** in Indonesia<!--• and currently a **Developer at [Toprion.com](https://toprion.com)** •-->.
 
 I started learning programming in 8th grade and have been building various personal and professional projects ever since—both in **frontend** and **backend**. Most of my projects are documented and shared here on GitHub.
 
@@ -44,7 +44,7 @@ In this GitHub profile, you'll find a variety of projects, you can explore my re
 - 📸 **Instagram**: [@p.ky___](https://instagram.com/p.ky___)
 - 👤 **Facebook**: [M Zacky](https://www.facebook.com/share/172NmZtMos/)
 - 🎵 **TikTok**: [@p.ky___](https://www.tiktok.com/@p.kyy___)
-- 🌐 **Website**: [toprion](https://toprion.com)
+<!--•- 🌐 **Website**: [toprion](https://toprion.com) •-->
 
 ---
 
